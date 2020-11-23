@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rulesFragment"
+        android:icon="@drawable/baseline_menu_black_24dp"
+        android:title="Rules"/>
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/baseline_info_black_24dp"
+        android:title="About"/>
+</menu>
